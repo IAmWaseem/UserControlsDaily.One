@@ -1,0 +1,67 @@
+﻿<Page x:Class="UserControlsDaily.MainPage"
+	  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	  xmlns:local="using:UserControlsDaily"
+	  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	  mc:Ignorable="d">
+
+	<StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		
+		<StackPanel Orientation="Horizontal"
+					HorizontalAlignment="Center"
+					Margin="0 100 0 100">
+			<local:SquareTileControl x:ConnectionId='4' Title="Blogger"
+									 Description="A great blogging website"
+									 Background="#fb8f3d"
+									 Icon="Assets/Blogger.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                
+									 Margin="0 0 20 0"/>
+			<local:SquareTileControl x:ConnectionId='5' Title="Facebook"
+									 Description="The best Social Network"
+									 Background="#3b5998"
+									 Icon="Assets/Facebook.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                
+									 Margin="0 0 20 0"/>
+			<local:SquareTileControl x:ConnectionId='6' Title="Outlook"
+									 Description="E-Mail Client"
+									 Background="#FF006FC4"
+									 Icon="Assets/Outlook.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                 />
+		</StackPanel>
+		<StackPanel Orientation="Horizontal"
+					HorizontalAlignment="Center"
+					Margin="0 0 0 100">
+			<local:SquareTileControl x:ConnectionId='1' Title="Twitter"
+									 Description="Its nice for tweeting"
+									 Background="#00aced"
+									 Icon="Assets/Twitter.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                
+									 Margin="0 0 20 0" />
+			<local:SquareTileControl x:ConnectionId='2' Title="Visual Studio"
+									 Description="The best Development Tool"
+									 Background="#FF68217A"
+									 Icon="Assets/VS.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                
+									 Margin="0 0 20 0" />
+			<local:SquareTileControl x:ConnectionId='3' Title="YouTube"
+									 Description="It contains a lot of videos"
+									 Background="#bb0000"
+									 Icon="Assets/YouTube.png"
+									 TitleAlignment="Center"
+									 DescriptionAlignment="Center"
+									                                 />
+		</StackPanel>
+	</StackPanel>
+</Page>
+

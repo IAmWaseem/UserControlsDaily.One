@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WASEEM</Machine>
+    <WindowsUser>Waseem</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6a72977d-7a1b-4352-bd1c-4ed39630fca5</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C59634DCD20F8F3ABECE63EAD131C5A3F3312CBBF71216780DE7B7BE036EBD3D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6a72977d-7a1b-4352-bd1c-4ed39630fca5_1.0.0.0_neutral__x62vccmnqdnw6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6a72977d-7a1b-4352-bd1c-4ed39630fca5_x62vccmnqdnw6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6a72977d-7a1b-4352-bd1c-4ed39630fca5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Waseem</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-18T11:03:29.368</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\UserControlsDaily.exe">
+      <PackagePath>UserControlsDaily.exe</PackagePath>
+      <Modified>2015-01-18T11:03:29.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T22:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T22:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Blogger.png">
+      <PackagePath>Assets\Blogger.png</PackagePath>
+      <Modified>2015-01-18T10:36:42.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Facebook.png">
+      <PackagePath>Assets\Facebook.png</PackagePath>
+      <Modified>2015-01-18T10:35:50.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Ghost.png">
+      <PackagePath>Assets\Ghost.png</PackagePath>
+      <Modified>2015-01-18T07:32:15.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Outlook.png">
+      <PackagePath>Assets\Outlook.png</PackagePath>
+      <Modified>2015-01-18T10:36:27.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\Twitter.png">
+      <PackagePath>Assets\Twitter.png</PackagePath>
+      <Modified>2015-01-18T10:36:11.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\VS.png">
+      <PackagePath>Assets\VS.png</PackagePath>
+      <Modified>2015-01-18T01:46:50.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\Assets\YouTube.png">
+      <PackagePath>Assets\YouTube.png</PackagePath>
+      <Modified>2015-01-18T10:36:53.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-18T09:03:37.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-18T11:03:28.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\SquareTileControl.xbf">
+      <PackagePath>SquareTileControl.xbf</PackagePath>
+      <Modified>2015-01-18T11:03:28.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\UserControlsDaily.xr.xml">
+      <PackagePath>UserControlsDaily.xr.xml</PackagePath>
+      <Modified>2015-01-18T10:44:15.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\waseem\documents\visual studio 2013\Projects\UserControlsDaily\UserControlsDaily\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-18T11:03:29.226</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
